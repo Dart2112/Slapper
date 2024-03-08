@@ -1,0 +1,4 @@
+name: Slapper
+version: ${project.version}
+main: net.lapismc.slapper.Slapper
+api-version: 1.13
